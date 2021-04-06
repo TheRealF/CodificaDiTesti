@@ -1,8 +1,8 @@
-# Progetto Codifica di Testi a.a. 19/20
+# Progetto Codifica di testi a.a. 19/20
 Informatica Umanistica Unipi
 
-Lavoro di gruppo:
-
-Francesco Bertoli mat. 590178
-
-Federico Boggia mat. 535711
+    Gruppo: due
+    Lettera: LL1.6
+    Studenti: Francesco Bertoli e Federico Boggia
+    Matricole: 590178, 535711
+    Corso: Codifica di testi
