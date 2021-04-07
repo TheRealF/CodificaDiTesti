@@ -7,7 +7,7 @@ Informatica Umanistica Unipi
     Matricole: 590178, 535711
     Corso: Codifica di testi
 
-Fonti:
+Fonti materiale esterno:
 
 Maphilight: https://github.com/kemayo/maphilight
 
