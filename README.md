@@ -8,5 +8,7 @@ Informatica Umanistica Unipi
     Corso: Codifica di testi
 
 Fonti:
+
 Maphilight: https://github.com/kemayo/maphilight
+
 w3schools magnifier: https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp
