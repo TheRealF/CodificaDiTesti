@@ -9,11 +9,6 @@
 
 # Materiale esterno:
 
-**Files:**
-
-* magnifier.js
-* jquery.maphilight.js
-
 **Fonti:**
  
 * Maphilight: https://github.com/kemayo/maphilight
