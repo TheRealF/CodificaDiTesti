@@ -1,5 +1,5 @@
 # Progetto Codifica di testi a.a. 19/20
-Informatica Umanistica Unipi
+**Informatica Umanistica Unipi**
 
     Gruppo: due
     Lettera: LL1.6
@@ -12,11 +12,9 @@ Informatica Umanistica Unipi
 **Files:**
 
 * magnifier.js
-
 * jquery.maphilight.js
 
 **Fonti:**
  
 * Maphilight: https://github.com/kemayo/maphilight
-
 * w3schools magnifier: https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp
