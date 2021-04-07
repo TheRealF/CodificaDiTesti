@@ -9,14 +9,14 @@ Informatica Umanistica Unipi
 
 # Materiale esterno:
 
-Files:
+**Files:**
 
-magnifier.js
+* magnifier.js
 
-jquery.maphilight.js
+* jquery.maphilight.js
 
-Fonti:
+**Fonti:**
  
-Maphilight: https://github.com/kemayo/maphilight
+* Maphilight: https://github.com/kemayo/maphilight
 
-w3schools magnifier: https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp
+* w3schools magnifier: https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp
