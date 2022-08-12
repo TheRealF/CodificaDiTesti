@@ -13,3 +13,7 @@
  
 * Maphilight: https://github.com/kemayo/maphilight
 * w3schools magnifier: https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp
+
+#### Authors:
+> [@TheRealF](https://github.com/TheRealF)
+> [@VibesMan](https://github.com/VibesMan)
